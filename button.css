@@ -1,0 +1,17 @@
+.btn-blue{
+	background-color: rgb(229, 233, 231);
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: darkred;
+	font-weight: bold;
+	font-family: 'Courier', sans-serif;
+}
+
+.btn-inscription {
+	background-color: rgb(229, 233, 231);
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: darkred;
+	font-weight: bold;
+	font-family: 'Courier', sans-serif;
+}
